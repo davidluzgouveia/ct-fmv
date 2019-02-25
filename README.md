@@ -5,8 +5,8 @@ A tool for the Steam version of Chrono Trigger that allows you to decode the FMV
 
 Thanks to [Aemony](http://steamcommunity.com/id/aemony) who posted on the Steam forums showing how easy the format was to decode.
 
-How to use
-----------
+Instructions
+------------
 
 - Grab the [latest release from here](https://github.com/davidluzgouveia/ct-fmv/releases)
 - Drag a `.dat` on top of `ct-fmv.exe` to decode it into `.mp4`
